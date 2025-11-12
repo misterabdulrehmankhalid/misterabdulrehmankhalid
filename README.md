@@ -1,4 +1,3 @@
-[ReadMe.md](https://github.com/user-attachments/files/23505623/ReadMe.md)
 # 💫 About Me:
 👋 Hi, I'm Abdul Rehman!<br><br>💻 I am a full stack React Native & Web Developer with a love for clean code and creative apps.<br><br><br>---<br><br>🛠️ I'm currently working on<br>A driver safety and crash alert application that enhances driver safety in realtime.<br><br>🤝 I'm looking to collaborate on mobile applications and creative web projects.<br><br>🧠 I'm currently learning<br>Advanced concepts in parallel computing and machine learning.<br><br>💬 Ask me about MERN Stack, React Native, SQL, Postgree SQL or how to turn your app idea into reality.<br><br>⚡ Fun fact<br>I started coding out of curiosity — now I can’t imagine a day without it! 🚀
 
